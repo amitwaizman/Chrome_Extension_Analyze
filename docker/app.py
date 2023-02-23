@@ -36,8 +36,9 @@ def load_images(file_name):
   return st.image(img,width=300)
   
 def main():
+  placeholder = ""
   nltk.download('punkt')
-  original_title = '<b><p style="font-family:Courier; color:white; font-size: 40px;">Crome Extantion Analayze</p><b>'
+  original_title = '<b><p style="font-family:Courier; color:white; text-align: center; font-size: 35px;">Chrome Extension Analyze</p><b>'
   st.markdown(original_title, unsafe_allow_html=True)
   file = st.file_uploader("Upload a crx file", type=["crx", "zip"])
   with open("unnamed.jpg", "rb") as image_file:
@@ -124,6 +125,5 @@ def main():
                                            opacity:0.6'>
                                            {txt}</style>
                                            <br></p>""" 
-    
           st.markdown(htmlstr1,unsafe_allow_html=True) 
 main()
