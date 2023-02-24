@@ -1,0 +1,255 @@
+0,3,0,0,0,15,0,13,storage tabs contextMenus ,0
+0,1,0,0,0,0,1,5,activeTab ,0
+0,3,0,0,0,0,0,2,declarativeNetRequestWithHostAccess storage scripting ,0
+0,2,0,0,0,15,0,9,storage tabs ,0
+0,2,0,0,0,0,0,9,storage activeTab ,0
+0,2,0,0,0,0,0,13,chrome://favicon/ bookmarks ,0
+0,3,0,0,0,0,0,2,storage tabs contextMenus ,0
+0,2,0,0,0,15,0,4,storage unlimitedStorage ,0
+0,3,0,0,0,0,0,12,*://www.youtube.com/* *://*.youtube-nocookie.com/* *://youtube.com/* ,0
+1,0,0,0,0,0,0,24,null,0
+0,2,0,0,0,30,1,60,https://update-api.cinemamode.co/ activeTab ,0
+0,25,0,0,0,0,5,252,webNavigation *://api.ejoy.io/* https://fonts.googleapis.com/ *://translate.google.com/* *://connect.ejoy.io/* tabs *://*.nflximg.com/* *://glosbe.com/* *://api.urbandictionary.com/* unlimitedStorage *://*.netflix.com/* *://*.nflxvideo.net/* *://*.nflximg.net/* *://*.nflxext.com/* <all_urls> notifications http://fonts.googleapis.com/ *://youtube.com/* contextMenus tts https://text-to-speech-demo.ng.bluemix.net/api/* gcm storage webRequest ,0
+0,6,0,0,0,0,0,0,http://*/* activeTab tabs contextMenus https://*/* bookmarks ,0
+0,3,0,0,0,0,0,3,favicon bookmarks storage ,0
+0,6,0,0,0,25,0,32,notifications http://*/* contextMenus file:///* storage https://*/* ,0
+0,9,0,0,0,15,0,3,tabs contextMenus alarms history storage chrome://favicon/ bookmarks <all_urls> unlimitedStorage ,0
+0,3,0,0,0,0,0,2,debugger downloads storage ,0
+0,1,0,0,0,0,0,3,management ,0
+0,1,0,0,0,25,1,59,activeTab ,0
+0,4,0,0,0,0,0,9,tabs webNavigation http://*/* https://*/* ,0
+0,10,0,0,0,30,1,27,http://*/* tabs contextMenus clipboardRead background storage https://*/* bookmarks unlimitedStorage file://*/* ,0
+0,5,0,0,0,40,1,24,tabs scripting activeTab desktopCapture downloads ,0
+1,0,0,0,0,0,0,5,null,0
+0,1,0,0,0,0,0,3,activeTab ,0
+1,0,0,0,0,0,0,5,null,0
+0,1,0,0,0,30,2,63,storage ,0
+0,4,0,0,0,0,0,3,https://soundcloud.com/* https://api-auth.soundcloud.com/* https://secure.soundcloud.com/* cookies ,0
+0,3,0,0,0,0,0,2,scripting tabCapture activeTab ,0
+0,3,0,0,0,0,0,1,management storage contextMenus ,0
+0,5,0,0,0,30,0,16,tabs contextMenus tabGroups storage unlimitedStorage ,0
+0,1,0,0,0,0,0,4,storage ,0
+0,5,0,0,0,0,0,11,tabs activeTab storage tabCapture <all_urls> ,0
+0,7,0,0,0,40,0,201,webNavigation tabs activeTab scripting declarativeNetRequest storage webRequest ,0
+0,3,0,0,0,0,0,4,management storage contextMenus ,0
+0,1,0,0,0,0,0,2,contextMenus ,0
+0,1,0,0,0,0,1,35,storage ,0
+0,1,0,0,0,0,0,3,activeTab ,0
+0,1,0,0,0,0,0,0,management ,0
+0,3,0,0,0,0,0,3,storage management contextMenus ,0
+0,3,0,0,0,0,0,3,scripting storage activeTab ,0
+0,1,0,0,0,15,4,14,activeTab ,0
+1,0,0,0,0,0,0,0,null,0
+0,3,0,0,0,0,0,27,bookmarks storage unlimitedStorage ,0
+0,2,0,0,0,0,0,3,tabCapture activeTab ,0
+0,1,0,0,0,0,0,1,contextMenus ,0
+0,1,0,0,0,0,0,1,activeTab ,0
+1,0,0,0,0,0,4,71,null,0
+0,6,0,0,0,25,4,12,system.display scripting alarms cookies background storage ,0
+1,0,0,0,0,0,1,26,null,0
+0,4,0,0,0,15,1,14,<all_urls> storage *://*/* unlimitedStorage ,0
+0,2,0,0,0,0,0,4,http://plug.dj/* https://plug.dj/* ,0
+0,2,0,0,0,0,0,3,<all_urls> tabs ,0
+0,1,0,0,0,0,0,1,tabs ,0
+0,2,0,0,0,0,0,0,management storage ,0
+0,3,0,0,0,25,0,19,storage tabs contextMenus ,0
+0,2,0,0,0,15,0,14,*://*.roblox.com/* storage ,0
+0,4,0,0,0,0,0,2,tabCapture storage tabs activeTab ,0
+0,2,0,0,0,0,0,4,chrome://favicon/ bookmarks ,0
+0,3,0,0,0,0,0,19,notifications storage tabs ,0
+0,3,0,0,0,0,2,26,system.display storage tabs ,0
+0,6,0,0,0,25,3,27,http://*/* tabs contextMenus https://www.seoquake.com/ storage https://*/* ,0
+0,5,0,0,0,0,0,5,activeTab https://portico.travel/* https://local.portico.travel/* storage https://staging.portico.travel/* ,0
+0,1,0,0,0,0,0,1,bookmarks ,0
+0,6,0,0,0,0,0,4,tabs webRequestBlocking storage webRequest tabCapture <all_urls> ,0
+0,1,0,0,0,0,0,2,activeTab ,0
+0,2,0,0,0,0,0,0,bookmarks tabs ,0
+0,3,0,0,0,0,0,7,storage https://api.scite.ai/* contextMenus ,0
+0,4,0,0,0,25,1,17,storage notifications cookies tabs ,0
+0,4,0,0,0,0,0,0,notifications tabCapture storage tabs ,0
+0,9,0,0,0,15,3,91,"https://huntr.co/* http://*/* tabs https://ajax.googleapis.com/ https://fonts.googleapis.com/css?family=Lato:300,400,700,900 http://localhost:3000/* storage https://*/* https://app.huntr.co/ ",0
+0,1,0,0,0,25,0,5,storage ,0
+0,3,0,0,0,0,0,0,bookmarks activeTab contextMenus ,0
+0,6,0,0,0,0,1,65,tabs contextMenus storage chrome://favicon/ unlimitedStorage file://*/* ,0
+0,6,0,0,0,0,0,2,notifications tabs contextMenus tabGroups downloads storage ,0
+0,1,0,0,0,0,0,3,management ,0
+0,5,0,0,0,0,0,1,tabs storage webRequest tabCapture <all_urls> ,0
+0,12,0,0,0,25,0,13,https://*.linkedin.com/* notifications clipboardWrite https://*.findthat.email/* tabs webRequestBlocking https://chrome.google.com/webstore/detail/* https://*.facebook.com/* https://*.ahrefs.com/* storage webRequest unlimitedStorage ,0
+0,3,0,0,0,15,0,28,tabCapture storage tabs ,0
+0,2,0,0,0,0,0,9,storage contextMenus ,0
+0,1,0,0,0,25,1,16,storage ,0
+0,3,0,0,0,15,0,6,tabCapture storage tabs ,0
+1,0,0,0,0,0,0,1,null,0
+1,0,0,0,0,0,0,12,null,0
+0,4,0,0,0,0,0,6,tabCapture <all_urls> storage *://*/* ,0
+0,1,0,0,0,0,0,6,storage ,0
+0,7,0,0,0,0,0,14,notifications tabs https://clients2.google.com/* storage https://ainoob.com/* management unlimitedStorage ,0
+0,5,0,0,0,15,0,9,contextMenus activeTab storage chrome://favicon/ bookmarks ,0
+0,6,0,0,0,0,1,6,declarativeContent https://www.springfieldsearchsolutions.com/myscreengrab/ tabs activeTab storage <all_urls> ,0
+0,2,0,0,0,0,0,1,storage contextMenus ,0
+0,3,0,0,0,0,0,4,<all_urls> storage tabs ,0
+0,5,0,0,0,0,0,2,tabs alarms storage <all_urls> fontSettings ,0
+0,9,0,0,0,0,0,2,webRequestBlocking tabs contextMenus http://*.todoist.com/* background storage https://*.todoist.com/* webRequest declarativeNetRequestWithHostAccess ,0
+0,4,0,0,0,0,0,2,contextMenus storage tabs activeTab ,0
+0,3,0,0,0,0,0,3,*://plug.dj/suchdj tabs activeTab ,0
+0,3,0,0,0,0,0,2,chrome://favicon/ bookmarks tabs ,0
+0,2,0,0,0,15,0,0,storage management ,0
+0,1,0,0,0,0,0,6,storage ,0
+0,4,0,0,0,0,0,4,tabCapture storage tabs activeTab ,0
+1,0,0,0,0,0,0,0,null,0
+0,4,0,0,0,0,0,1,chrome://favicon/ bookmarks storage tabs ,0
+0,1,0,0,0,0,0,0,storage ,0
+0,7,0,0,0,15,0,18,*://*.twitter.com/* *://*.youtube.com/* *://*.facebook.com/* *://*.instagram.com/* *://*.twitch.tv/* storage *://*.socialblade.com/* ,0
+0,4,0,0,0,0,0,0,notifications clipboardWrite tabs ,0
+0,3,0,0,0,0,0,1,bookmarks unlimitedStorage tabs ,0
+0,2,0,0,0,0,0,7,storage contextMenus ,0
+1,0,0,0,0,0,0,8,null,0
+0,4,0,0,0,0,0,1,tabCapture <all_urls> storage tabs ,0
+0,1,0,0,0,0,0,4,<all_urls> ,0
+0,3,0,0,0,0,0,0,notifications storage tabs ,0
+0,5,0,0,0,0,0,0,chrome://favicon/* http://*/* tabs https://*/* bookmarks ,0
+0,4,0,0,0,15,0,10,notifications <all_urls> storage contextMenus ,0
+0,2,0,0,0,0,0,5,management storage ,0
+0,2,0,0,0,25,4,13,tabCapture activeTab ,0
+0,6,0,0,0,0,1,6,tabs webRequestBlocking storage webRequest tabCapture <all_urls> ,0
+0,4,0,0,0,15,0,5,<all_urls> storage tabs activeTab ,0
+0,3,0,0,0,15,0,25,storage *://*.roblox.com/* unlimitedStorage ,0
+0,9,0,0,0,0,0,11,notifications clipboardWrite activeTab contextMenus cookies downloads storage <all_urls> unlimitedStorage ,0
+0,7,0,0,0,30,1,28,notifications tabs scripting cookies alarms gcm storage ,0
+0,4,0,0,0,40,1,48,notifications clipboardWrite storage contextMenus ,0
+1,0,0,0,0,0,0,2,null,0
+0,3,0,0,0,0,1,1,storage tabs contextMenus ,0
+0,3,0,0,0,0,0,1,contextMenus storage activeTab ,0
+1,0,0,0,0,0,0,2,null,0
+0,1,0,0,0,0,0,3,management ,0
+0,2,0,0,0,0,0,10,https://sponsor.ajay.app/* storage ,0
+0,0,0,0,0,0,0,0,0,0
+0,4,0,0,0,0,0,0,*://*/* storage webRequestBlocking webRequest ,0
+0,2,0,0,0,0,0,0,storage contextMenus ,0
+0,2,0,0,0,0,1,53,*://*.momentumdash.com/* unlimitedStorage ,0
+0,1,0,0,0,15,0,2,storage ,0
+1,0,0,0,0,0,0,0,null,0
+0,3,0,0,0,0,0,1,tabCapture storage tabs ,0
+0,3,0,0,0,15,2,62,<all_urls> webRequestBlocking webRequest ,0
+0,1,0,0,0,0,0,2,activeTab ,0
+1,0,0,0,0,0,0,0,null,0
+0,2,0,0,0,0,0,1,storage management ,0
+0,3,0,0,0,0,0,34,downloads storage tabs ,0
+0,4,0,0,0,0,0,1,bookmarks storage tabs activeTab ,0
+0,11,0,0,0,15,0,0,downloads.shelf notifications tabs downloads.open sessions history downloads storage chrome://favicon/ bookmarks management ,0
+1,0,0,0,0,0,0,1,null,0
+0,4,0,0,0,0,0,4,chrome://favicon/ storage tabs contextMenus ,0
+0,0,0,0,0,0,0,0,0,0
+0,7,0,0,0,25,3,123,webRequestBlocking http://*/* cookies storage https://*/* webRequest unlimitedStorage ,0
+0,1,0,0,0,0,0,7,storage ,0
+0,4,0,0,0,0,0,2,storage <all_urls> cookies tabs ,0
+0,1,0,0,0,0,0,6,storage ,0
+0,5,0,0,0,15,0,24,*://*plug.dj/* notifications tabs http://plug.myuplay.com/* storage ,0
+0,3,0,0,0,15,0,16,storage cookies activeTab ,0
+0,1,0,0,0,0,0,2,activeTab ,0
+0,2,0,0,0,0,0,0,storage management ,0
+0,2,0,0,0,15,0,2,storage scripting ,0
+0,6,0,0,0,25,0,17,https://www.googleapis.com/youtube/v3/* webRequestBlocking https://*.youtube.com/ background storage webRequest ,0
+0,4,0,0,0,0,0,29,clipboardWrite storage tabs activeTab ,0
+0,6,0,0,0,15,0,11,clipboardWrite *://*/* tabs webRequestBlocking storage webRequest ,0
+0,1,0,0,0,15,0,9,storage ,0
+0,1,0,0,0,25,1,10,activeTab ,0
+0,3,0,0,0,0,0,5,scripting tabs activeTab ,0
+0,2,0,0,0,0,0,13,chrome://favicon/ tabs ,0
+0,1,0,0,0,0,0,2,tabs ,0
+0,9,0,0,0,30,1,29,notifications tabs webRequestBlocking cookies gcm storage webRequest <all_urls> unlimitedStorage ,0
+0,2,0,0,0,0,0,3,tabCapture activeTab ,0
+0,3,0,0,0,0,0,1,https://www.google.com/* https://mail.google.com/* storage ,0
+0,5,0,0,0,15,2,21,system.display tabs scripting activeTab storage ,0
+0,11,0,0,0,25,4,13,webNavigation *://*/* tabs activeTab webRequestBlocking contextMenus cookies storage webRequest tabCapture <all_urls> ,0
+0,1,0,0,0,0,0,8,management ,0
+0,5,0,0,0,0,0,1,chrome://favicon/* tabs activeTab history <all_urls> ,0
+0,8,0,0,0,0,0,4,notifications webNavigation http://*/* tabs webRequestBlocking webRequest storage https://*/* ,0
+0,5,0,0,0,0,0,4,tabs contextMenus history storage unlimitedStorage ,0
+0,3,0,0,0,15,2,50,clipboardWrite unlimitedStorage activeTab ,0
+0,6,0,0,0,0,0,15,webNavigation tabs activeTab webRequestBlocking storage webRequest ,0
+0,3,0,0,0,0,0,11,*://*/* storage tabs ,0
+0,3,0,0,0,15,0,2,storage management tabs ,0
+0,7,0,0,0,0,0,2,notifications webNavigation tabs activeTab scripting identity storage ,0
+0,2,0,0,0,15,0,10,tabCapture storage ,0
+0,1,0,0,0,15,1,179,storage ,0
+0,1,0,0,0,0,0,0,management ,0
+0,9,0,0,0,0,0,4,tabs contextMenus http://*/* management storage https://*/* bookmarks <all_urls> unlimitedStorage ,0
+0,2,0,0,0,0,5,519,contextMenus activeTab ,0
+0,2,0,0,0,0,0,4,contextMenus activeTab ,0
+0,3,0,0,0,0,0,37,contextMenus storage activeTab ,0
+0,1,0,0,0,0,0,6,storage ,0
+0,2,0,0,0,0,0,6,chrome://favicon/ bookmarks ,0
+0,5,0,0,0,50,0,39,notifications *://*.rbxcdn.com/* *://*.roblox.com/* storage *://*.ropro.io/* ,0
+0,9,0,0,0,15,2,80,notifications webRequestBlocking https://assets.hipso.cc/* *://*.googleusercontent.com/* cookies *://infinity.500apps.com/* storage webRequest https://mail.google.com/* ,0
+0,2,0,0,0,0,0,15,storage activeTab ,0
+0,1,0,0,0,0,0,1,management ,0
+0,2,0,0,0,0,0,24,storage tabs ,0
+0,0,0,0,0,0,0,0,0,0
+0,5,0,0,0,50,0,39,notifications *://*.rbxcdn.com/* *://*.roblox.com/* storage *://*.ropro.io/* ,0
+0,2,0,0,0,0,0,1,storage contextMenus ,0
+0,6,0,0,0,0,0,7,activeTab favicon alarms tabGroups storage bookmarks ,0
+0,3,0,0,0,0,0,1,contextMenus tabs activeTab ,0
+0,3,0,0,0,0,0,7,contextMenus storage activeTab ,0
+0,6,0,0,0,25,0,8,tabs favicon sessions history storage bookmarks ,0
+0,4,0,0,0,0,0,2,tabCapture storage tabs activeTab ,0
+1,0,0,0,0,0,0,10,null,0
+0,3,0,0,0,0,0,0,downloads <all_urls> activeTab ,0
+0,1,0,0,0,0,0,0,management ,0
+0,5,0,0,0,15,1,16,webRequestBlocking storage webRequest <all_urls> unlimitedStorage ,0
+0,4,0,0,0,15,0,6,*://www.youtube.com/* *://i1.ytimg.com/* webNavigation tabs ,0
+0,3,0,0,0,15,3,31,declarativeNetRequest storage scripting ,0
+1,0,0,0,0,0,0,2,null,0
+1,0,0,0,0,25,2,42,null,1
+1,0,0,0,0,25,2,43,null,1
+1,0,0,0,0,0,2,17,null,1
+1,0,0,0,0,15,0,2,null,1
+1,0,0,0,0,0,0,0,null,1
+1,0,0,0,0,40,7,31,null,1
+1,0,0,0,0,0,6,203,null,1
+0,8,0,0,0,30,1,22,notifications tabs activeTab cookies alarms https://*/ storage http://*/ ,1
+1,0,0,0,0,15,6,25,null,1
+1,0,0,0,0,25,2,43,null,1
+1,0,0,0,0,0,0,0,null,1
+1,0,0,0,0,0,0,11,null,1
+1,0,0,0,0,0,0,0,null,1
+0,8,0,0,0,30,1,22,notifications tabs activeTab cookies alarms https://*/ storage http://*/ ,1
+1,0,0,0,0,0,0,17,null,1
+0,2,0,0,0,40,0,90,<all_urls> storage ,1
+0,0,0,0,0,0,8,373,0,1
+1,0,0,0,0,40,0,16,null,1
+1,0,0,0,0,15,1,14,null,1
+1,0,0,0,0,0,0,0,null,1
+1,0,0,0,0,0,0,15,null,1
+1,0,0,0,0,0,0,17,null,1
+1,0,0,0,0,15,0,2,null,1
+0,4,0,0,0,0,1,1,<all_urls> storage webRequestBlocking webRequest ,1
+0,10,0,0,0,0,0,12,nativeMessaging tabs webRequestBlocking contextMenus alarms downloads storage webRequest <all_urls> unlimitedStorage ,1
+0,11,0,0,0,0,1,52,http://*/* contextMenus tabs idle webRequestBlocking cookies webRequest storage https://*/* privacy unlimitedStorage ,1
+1,0,0,0,0,25,2,41,null,1
+1,0,0,0,0,0,0,17,null,1
+1,0,0,0,0,0,0,0,null,1
+1,0,0,0,0,0,0,0,null,1
+1,0,0,0,0,70,0,0,null,1
+1,0,0,0,0,0,0,16,null,1
+1,0,0,0,0,0,0,17,null,1
+1,0,0,0,0,15,2,26,null,1
+1,0,0,0,0,25,2,42,null,1
+1,0,0,0,0,0,0,0,null,1
+1,0,0,0,0,0,0,0,null,1
+1,0,0,0,0,25,2,42,null,1
+1,0,0,0,0,25,2,44,null,1
+1,0,0,0,0,0,0,0,null,1
+1,0,0,0,0,0,0,0,null,1
+1,0,0,0,0,0,4,101,null,1
+1,9,0,0,0,0,0,0,Profile FileSystem GameInfo Streaming Hotkeys Tray Extensions DesktopStreaming Clipboard ,1
+1,0,0,0,0,0,1,39,null,1
+1,0,0,0,0,25,2,43,null,1
+1,0,0,0,0,0,1,92,null,1
+1,0,0,0,0,15,0,12,null,1
+1,0,0,0,0,25,2,44,null,1
+1,0,0,0,0,0,5,137,null,1
+1,0,0,0,0,0,0,0,null,1
+1,0,0,0,0,40,0,16,null,1
+1,0,0,0,0,15,0,0,null,1
+1,0,0,0,0,0,0,0,null,1
