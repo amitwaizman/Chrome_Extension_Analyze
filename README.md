@@ -1,4 +1,4 @@
-# Crome-Extantion-Analayze
+# Chrome_Extension_Analyze
 
 A project to detect malicious or benign chrome extention by a learning machine
 
